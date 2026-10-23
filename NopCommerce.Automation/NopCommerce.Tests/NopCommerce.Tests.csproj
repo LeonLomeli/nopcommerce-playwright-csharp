@@ -22,7 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Base\" />
     <Folder Include="config\" />
     <Folder Include="Utils\" />
     <Folder Include="TestData\" />
@@ -31,3 +30,4 @@
   </ItemGroup>
 
 </Project>
+////--
